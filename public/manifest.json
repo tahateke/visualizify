@@ -1,0 +1,15 @@
+{
+  "short_name": "Visualizify",
+  "name": "Visualizify",
+  "icons": [
+    {
+      "src": "MusicNote.png",
+      "type": "image/png",
+      "sizes": "1060x1060"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

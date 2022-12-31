@@ -1,0 +1,54 @@
+.navBar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #363636;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navOption {
+    float: left;
+}
+
+.navButton {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navButtonAuth {
+    display: block;
+    text-align: center;
+    padding: 4px 12px;
+    text-decoration: none;
+}
+
+.navButton:hover {
+    background-color: #0A0A0A;
+}
+
+.navButtonAuth:hover {
+    background-color: #0A0A0A;
+}
+
+.authButton {
+    font: bold 14px Arial;
+    text-decoration: none;
+    text-align: center;
+    background-color: #1DB954;
+    color: #191414;
+    display: inline-block;
+    padding: 12px;
+    border-radius: 12px;
+    border: 1px solid #246b44;
+    box-shadow:  -1px 1px #246b44,
+         -1px 1px #246b44,
+         -1px 1px #246b44,
+         -2px 2px #246b44,
+         -3px 3px #246b44;
+}
